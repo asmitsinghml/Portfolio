@@ -90,9 +90,8 @@ Interactive Air Quality Dashboard built with Python and Power BI.
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: https://your-portfolio-link.vercel.app
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 🐙 GitHub: https://github.com/asmitsinghml
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/asmit-singh-83145b294/
+- 📧 Email: asmitsinghraj5@gmail.com
 
 ---
 
