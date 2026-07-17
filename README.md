@@ -89,7 +89,7 @@ Interactive Air Quality Dashboard built with Python and Power BI.
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: dancing-sprite-a3d94e.netlify.app/
+- 🌐 Portfolio: https://dancing-sprite-a3d94e.netlify.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/asmit-singh-83145b294/
 - 📧 Email: asmitsinghraj5@gmail.com
 
